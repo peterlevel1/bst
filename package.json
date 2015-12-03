@@ -1,0 +1,25 @@
+{
+  "name": "bst",
+  "version": "1.0.1",
+  "description": "have some sun with js",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterlevel1/bst.git"
+  },
+  "keywords": [
+    "fun",
+    "haha"
+  ],
+  "author": "Peter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterlevel1/bst/issues"
+  },
+  "homepage": "https://github.com/peterlevel1/bst#readme"
+}
